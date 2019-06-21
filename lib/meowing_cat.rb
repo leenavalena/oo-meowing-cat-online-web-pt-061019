@@ -6,4 +6,5 @@ maru.name = "Maru"
 
   def meow
     puts "meow!"
+  end
 end 
